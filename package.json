@@ -1,0 +1,24 @@
+{
+  "name": "md-pillar",
+  "version": "1.0.1",
+  "description": "a package convert md to html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mdtohtml": "bin/index"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "convert"
+  ],
+  "author": "andylaw",
+  "license": "ISC",
+  "dependencies": {
+    "@wulechuan/css-stylus-markdown-themes": "^5.9.13",
+    "@wulechuan/gulp-markdown-to-html": "^1.4.1",
+    "gulp": "^4.0.2"
+  }
+}

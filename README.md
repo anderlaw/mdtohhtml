@@ -5,8 +5,12 @@ through npm : `npm install md-pillar -g`,set `mdtohtml` as global command.
 
 ## example
 incase we have a file to convert:`C:/Users/hajerbin/Desktop/test.md`,
-and a target dir where we want to convert into:`C:/Users/hajerbin/Desktop/result`
-then example is:`mdtohtml  C:/Users/hajerbin/Desktop/test.md  C:/Users/hajerbin/Desktop/result`
+
+
+a target dir where we want to convert into:`C:/Users/hajerbin/Desktop/result`
+
+
+usage is:`mdtohtml  C:/Users/hajerbin/Desktop/test.md  C:/Users/hajerbin/Desktop/result`
 ![here is README.md example](./example.PNG)
 
 ## tips

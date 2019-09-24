@@ -20,5 +20,13 @@
     "@wulechuan/css-stylus-markdown-themes": "^5.9.13",
     "@wulechuan/gulp-markdown-to-html": "^1.4.1",
     "gulp": "^4.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderlaw/mdtohhtml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anderlaw/mdtohhtml/issues"
+  },
+  "homepage": "https://github.com/anderlaw/mdtohhtml#readme"
 }

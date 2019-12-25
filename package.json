@@ -17,8 +17,8 @@
   "author": "andylaw",
   "license": "ISC",
   "dependencies": {
-    "@wulechuan/css-stylus-markdown-themes": "^5.9.13",
-    "@wulechuan/gulp-markdown-to-html": "^1.4.1",
+    "@wulechuan/css-stylus-markdown-themes": "^6.3.27",
+    "@wulechuan/gulp-markdown-to-html": "^2.8.14",
     "gulp": "^4.0.2"
   },
   "repository": {

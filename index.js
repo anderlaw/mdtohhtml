@@ -8,7 +8,7 @@ module.exports = ()=>{
     compileFile : default as ./index.md
     targetDir : default as current dir.
     */
-   console.log(process.argv)
+//    console.log(process.argv)
     var args = process.argv.slice(2);
     var compileFile =args[0] || './index.md';
     var targetDir = args[1] || './';
